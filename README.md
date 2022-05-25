@@ -1,5 +1,5 @@
 # Project-portfolio
-This repository contains images depicting my two major projects completed on School of Code Bootcamp. Each image illustrates and provides a summary description of the project journey from ideation to delivery, represented by three stages: the beginning, the design stage and the delivery stage. To view the deployed web applications at completion of each project, follow the project links in my profile page. 
+This repository contains images depicting my two major projects completed on School of Code Bootcamp. Each image illustrates and provides a summary description of the project journey from ideation to delivery, represented by three stages: the beginning, the design stage and the delivery stage. To view the deployed web applications at completion of each project, visit my Profile Page and follow the project links. 
 
 A four week final project, undertaken in a group of five, none of whom had ever worked together before. {Co:llab} an event planning app enables Bootcamp graduates and others learning to code to join and create events to meet and code together collaboratively and learn from industry experts. The MVP was reached and reiterated several times with additional features added. If more time had been available the features would have been developed further. 
 
