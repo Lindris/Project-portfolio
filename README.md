@@ -1,7 +1,7 @@
 # Project-portfolio images and project summaries:
 This repository contains two files with images depicting my two major projects completed on School of Code Bootcamp. 
 
-View the project overviews by opening the files for Co:llab and Untied. Each image montage illustrates and provides a summary description of the project journey from ideation to delivery, represented by three stages: the beginning, the design stage and the delivery stage. 
+View the project overviews by opening the files Co:llab-project-images and Untied-project-images. Each image montage illustrates and provides a summary description of the project journey from ideation to delivery, represented by three stages: the beginning, the design stage and the delivery stage. 
 
 To view the deployed web applications at completion of each project, visit my Profile Page and follow the project links. 
 
